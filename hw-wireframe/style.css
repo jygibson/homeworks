@@ -30,20 +30,21 @@ li {
     display: inline;
 }
 
-.box {
-    float: left;
-    width: 50%;
-    padding: 20px;
-}
 
 #section {
     background: #ebebeb;
     margin: 10px;
+    padding: 20px;
+    width: 50%;
+    float: left;
 }
 
 #aside {
     background: #ebebeb;
     margin: 10px;
+    padding: 20px;
+    width: 50%;
+    float: left;
 }
 
 #article {
