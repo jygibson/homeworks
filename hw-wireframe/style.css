@@ -17,13 +17,13 @@ body {
 header {
     background: #ebebeb;
     padding: 20px;
-    margin: 10px;
+    margin-bottom: 10px;
 }
 
 #nav {
     background: #ebebeb;
     padding: 20px;
-    margin: 10px;
+    margin-bottom: 10px;
 }
 
 li {
@@ -33,17 +33,17 @@ li {
 
 #section {
     background: #ebebeb;
-    margin: 10px;
+    margin-right: 1%;
     padding: 20px;
-    width: 46%;
+    width: 49%;
     float: left;
 }
 
 #aside {
     background: #ebebeb;
-    margin: 10px;
+    margin-left: 1%;
     padding: 20px;
-    width: 46%;
+    width: 49%;
     height: 440px;
     float: left;
 }
