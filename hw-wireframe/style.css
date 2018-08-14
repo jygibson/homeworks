@@ -30,7 +30,11 @@ li {
     display: inline;
 }
 
-
+.clearfix {
+    content:"";
+    display: block;
+    clear: both;
+}
 #section {
     background: #ebebeb;
     margin-right: 1%;
