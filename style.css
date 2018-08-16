@@ -18,6 +18,7 @@ header {
     background: #ebebeb;
     padding: 20px;
     margin-bottom: 10px;
+    margin-top: 10px;
 }
 
 #nav {
@@ -30,22 +31,20 @@ li {
     display: inline;
 }
 
-.clearfix {
-    content:"";
-    display: block;
-    clear: both;
-}
 #section {
     background: #ebebeb;
     margin-right: 1%;
+    margin-bottom: 1%;
     padding: 20px;
     width: 49%;
+    height: 440px;
     float: left;
 }
 
 #aside {
     background: #ebebeb;
     margin-left: 1%;
+    margin-bottom: 1%;
     padding: 20px;
     width: 49%;
     height: 440px;
@@ -67,7 +66,7 @@ h1,h2,h3,p {
 
 footer {
     background: #ebebeb;
-    padding: 20px;
-    margin: 10px;
+    margin-top: 1%;
+    margin-bottom: 1%;
     clear: both;
 }
